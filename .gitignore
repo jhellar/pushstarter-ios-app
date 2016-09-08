@@ -16,7 +16,9 @@ xcuserdatad/*
 xcuserdata
 *.xccheckout
 docset-installed.txt
+build/*
 
 # Exclude cocoapods folder
 Pods/
 *.xcworkspace
+Podfile.lock
